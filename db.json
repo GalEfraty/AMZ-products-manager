@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "asin": "078669324X",
+      "locale": "CA",
+      "seller_name": "thrasio",
+      "availability": true,
+      "price": 16.87,
+      "proudct_name": "You Can Teach Yourself Dobro",
+      "product_link": "https://www.amazon.com/dp/078669324X?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    },
+    {
+      "asin": "999768409",
+      "locale": "US",
+      "seller_name": "perch",
+      "availability": true,
+      "price": 15.95,
+      "proudct_name": "Li'l-Gen Dinosaurs Sound Book: Clever Creatures and Boundless Beasts - A Land of Dinosaurs (12 Button Sound)",
+      "product_link": "https://www.amazon.com/dp/0999768409?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    },
+    {
+      "asin": "1562222430",
+      "locale": "CA",
+      "seller_name": "thrasio",
+      "availability": true,
+      "price": 14.99,
+      "proudct_name": "Easy Solos for Beginning Cello Level 1",
+      "product_link": "https://www.amazon.com/dp/1562222430?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    },
+    {
+      "asin": "1562222430",
+      "locale": "US",
+      "seller_name": "thrasio",
+      "availability": true,
+      "price": 14.99,
+      "proudct_name": "Easy Solos for Beginning Cello, Level 1",
+      "product_link": "https://www.amazon.com/dp/1562222430?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    },
+    {
+      "asin": "1883035031",
+      "locale": "US",
+      "seller_name": "clear-pool",
+      "availability": true,
+      "price": 65,
+      "proudct_name": "Growing Kids God's Way: Reaching the Heart of Your Child With a God-Centered Purpose",
+      "product_link": "https://www.amazon.com/dp/1883035031?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    },
+    {
+      "asin": "1947575112",
+      "locale": "US",
+      "seller_name": "publisher-expansion",
+      "availability": true,
+      "price": 24.99,
+      "proudct_name": "Arteza 9X12” Kids Watercolor Pad, 2 Pack 60 Sheets (135lb/200gsm), Glue Bound Watercolor Paper, 30 Sheets, Durable Acid Free Watercolor Paper, Art Supplies for Watercolor Techniques and Mixed Media",
+      "product_link": "https://www.amazon.com/dp/1947575112?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    },
+    {
+      "asin": "3802406397",
+      "locale": "CA",
+      "seller_name": "thrasio",
+      "availability": true,
+      "price": 2.59,
+      "proudct_name": "Alto Saxophone Basics, English Edition Book/CD Set",
+      "product_link": "https://www.amazon.com/dp/3802406397?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    },
+    {
+      "asin": "B0000505IZ",
+      "locale": "US",
+      "seller_name": "razor-group",
+      "availability": true,
+      "price": 11.99,
+      "proudct_name": "Swing-A-Way Portable Can Opener, White, 7\" -",
+      "product_link": "https://www.amazon.com/dp/B0000505IZ?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    },
+    {
+      "asin": "B0000505J0",
+      "locale": "US",
+      "seller_name": "razor-group",
+      "availability": true,
+      "price": 13.22,
+      "proudct_name": "Swing-A-Way Comfort Grip Can Opener, Black",
+      "product_link": "https://www.amazon.com/dp/B0000505J0?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    },
+    {
+      "asin": "B00007IT2M",
+      "locale": "US",
+      "seller_name": "razor-group",
+      "availability": false,
+      "price": 34.95,
+      "proudct_name": "Cuisinart Mini PREP Food Processor Custom, 2.63 Cup, Silver",
+      "product_link": "https://www.amazon.com/dp/B00007IT2M?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    },
+    {
+      "asin": "B00008WU9F",
+      "locale": "US",
+      "seller_name": "razor-group",
+      "availability": false,
+      "price": 14.99,
+      "proudct_name": "Bodum Brazil French Press Coffee and Tea Maker, 12 oz, Black",
+      "product_link": "https://www.amazon.com/dp/B00008WU9F?tag=hallocostu201-20&linkCode=ogi&th=1&psc=1"
+    }
+  ]
+}

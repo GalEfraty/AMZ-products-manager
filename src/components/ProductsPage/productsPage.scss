@@ -1,0 +1,88 @@
+@import '../../styles/vars.scss';
+
+.table-container {
+  overflow-x: auto;
+  width: 100%;
+
+  &::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+    margin-right: 8px;
+    border-radius: 0;
+
+    &-track {
+      background: $GraySoftColor;
+      border-radius: 0;
+    }
+
+    &-thumb {
+      background: $GrayLightColor;
+    }
+  }
+
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    min-width: 800px;
+
+    th {
+      .th-inner {
+        display: flex;
+        align-items: center;
+
+        .sort-btn {
+          transition: 0.2s ease;
+          display: flex;
+          color: $GrayLightColor;
+
+          &:hover {
+            cursor: pointer;
+          }
+
+          &.active {
+            color: $DarkGrayColor;
+          }
+
+          svg {
+            height: 18px;
+          }
+        }
+      }
+    }
+
+    td {
+      padding: 5px 2px;
+
+      .td-inner {
+        display: flex;
+        align-items: center;
+        font-size: 12px;
+
+        svg {
+          margin-right: 3px;
+        }
+      }
+
+      .product-link {
+        transition: ease 0.2s;
+
+        &:hover {
+          color: $GrayLightColor;
+        }
+      }
+    }
+
+    th,
+    td {
+      text-align: left;
+      padding: 8px;
+    }
+
+    tr {
+      &:nth-child(even) {
+        background-color: $StrokeGrayColor;
+      }
+    }
+  }
+}
